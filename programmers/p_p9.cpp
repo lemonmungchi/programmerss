@@ -1,18 +1,29 @@
 #include <string>
 #include <vector>
-#include <iostream>
+
 using namespace std;
 
-int main() {
-	int a;
-	int b;
-
-	cin >> a;
-	cin >> b;
-
-	string a1 = "";
-	a1 += to_string(a);
-	a1 += to_string(b);
-	int c = stoi(a1);
-	cout << a1;
+vector<int> solution(string s) {
+    vector<int> answer;
+    int len = s.length();
+    int an;
+    for (int i = 0; i < s.length(); i++) {
+        char a = s[i];
+        if (i == 0) {
+            answer.push_back(-1);
+        }
+        else {
+            for (int j = i-1; j < 0; j--) {
+                if (a == s[j]) {
+                    an = min(j, len);
+                    len = j;
+                }
+            }
+            if (an == len) {
+                answer.push_back(-1);
+            }
+            answer.push_back(an);
+        }  
+    }
+    return answer;
 }
