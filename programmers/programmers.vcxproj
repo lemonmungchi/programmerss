@@ -134,6 +134,8 @@
     <ClCompile Include="p_p14.cpp" />
     <ClCompile Include="p_p15.cpp" />
     <ClCompile Include="p_p16.cpp" />
+    <ClCompile Include="p_p17.cpp" />
+    <ClCompile Include="p_p18.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
