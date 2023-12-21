@@ -13,64 +13,76 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\chap1">
+      <UniqueIdentifier>{d96553fe-76b7-4365-88ad-5924b1e8320a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap2">
+      <UniqueIdentifier>{ffef8395-2716-4cb2-a31f-038c66288d11}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p_p10.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p11.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p12.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p13.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p14.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p15.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p16.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p17.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p18.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p19.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p20.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p21.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p22.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p23.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p24.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p25.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p26.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p27.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
     </ClCompile>
     <ClCompile Include="p_p28.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chap1</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p1.cpp">
+      <Filter>소스 파일\chap2</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p29.cpp">
+      <Filter>소스 파일\chap2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
