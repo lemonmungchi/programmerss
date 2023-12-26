@@ -150,6 +150,8 @@
     <ClCompile Include="p_p29.cpp" />
     <ClCompile Include="p_p30.cpp" />
     <ClCompile Include="p_p31.cpp" />
+    <ClCompile Include="p_p32.cpp" />
+    <ClCompile Include="p_p33.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

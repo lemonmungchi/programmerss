@@ -90,5 +90,11 @@
     <ClCompile Include="p_p31.cpp">
       <Filter>소스 파일\chap2</Filter>
     </ClCompile>
+    <ClCompile Include="p_p32.cpp">
+      <Filter>소스 파일\chap2</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p33.cpp">
+      <Filter>소스 파일\chap2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
