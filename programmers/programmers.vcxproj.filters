@@ -126,5 +126,20 @@
     <ClCompile Include="p_p43.cpp">
       <Filter>소스 파일\chap2</Filter>
     </ClCompile>
+    <ClCompile Include="p_p44.cpp">
+      <Filter>소스 파일\chap2</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p45.cpp">
+      <Filter>소스 파일\chap2</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p46.cpp">
+      <Filter>소스 파일\chap2</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p47.cpp">
+      <Filter>소스 파일\chap2</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p48.cpp">
+      <Filter>소스 파일\chap2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
