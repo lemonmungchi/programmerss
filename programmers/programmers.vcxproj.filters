@@ -180,5 +180,14 @@
     <ClCompile Include="p_p60.cpp">
       <Filter>소스 파일\chap3</Filter>
     </ClCompile>
+    <ClCompile Include="p_p61.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p62.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p63.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
