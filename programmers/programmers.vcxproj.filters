@@ -204,5 +204,11 @@
     <ClCompile Include="p_p68.cpp">
       <Filter>소스 파일\chap3</Filter>
     </ClCompile>
+    <ClCompile Include="p_p69.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p70.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
