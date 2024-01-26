@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\chap3">
       <UniqueIdentifier>{d8735f07-8c4d-4953-bc6a-0a3faf77cd67}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\chap4">
+      <UniqueIdentifier>{9470ee08-f35d-4723-8d92-d83467d32c99}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p_p10.cpp">
@@ -216,9 +219,6 @@
     <ClCompile Include="p_p72.cpp">
       <Filter>소스 파일\chap3</Filter>
     </ClCompile>
-    <ClCompile Include="p_p73.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="p_p74.cpp">
       <Filter>소스 파일\chap3</Filter>
     </ClCompile>
@@ -230,6 +230,21 @@
     </ClCompile>
     <ClCompile Include="p_p77.cpp">
       <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p78.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p79.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p80.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p73.cpp">
+      <Filter>소스 파일\chap3</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p81.cpp">
+      <Filter>소스 파일\chap4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
