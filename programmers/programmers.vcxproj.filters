@@ -300,5 +300,11 @@
     <ClCompile Include="p_p100.cpp">
       <Filter>소스 파일\chap4</Filter>
     </ClCompile>
+    <ClCompile Include="p_p101.cpp">
+      <Filter>소스 파일\chap4</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p102.cpp">
+      <Filter>소스 파일\chap4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
