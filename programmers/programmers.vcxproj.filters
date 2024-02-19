@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\chap4">
       <UniqueIdentifier>{9470ee08-f35d-4723-8d92-d83467d32c99}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\chap5">
+      <UniqueIdentifier>{62fdeda1-db79-444a-a390-177139f4f6e3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p_p10.cpp">
@@ -305,6 +308,15 @@
     </ClCompile>
     <ClCompile Include="p_p102.cpp">
       <Filter>소스 파일\chap4</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p103.cpp">
+      <Filter>소스 파일\chap4</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p104.cpp">
+      <Filter>소스 파일\chap5</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p105.cpp">
+      <Filter>소스 파일\chap5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
