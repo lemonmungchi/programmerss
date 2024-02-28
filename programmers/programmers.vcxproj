@@ -154,6 +154,9 @@
     <ClCompile Include="p_p120.cpp" />
     <ClCompile Include="p_p121.cpp" />
     <ClCompile Include="p_p122.cpp" />
+    <ClCompile Include="p_p123.cpp" />
+    <ClCompile Include="p_p124.cpp" />
+    <ClCompile Include="p_p125.cpp" />
     <ClCompile Include="p_p13.cpp" />
     <ClCompile Include="p_p14.cpp" />
     <ClCompile Include="p_p15.cpp" />
