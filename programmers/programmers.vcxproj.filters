@@ -378,5 +378,14 @@
     <ClCompile Include="p_p125.cpp">
       <Filter>소스 파일\chap5</Filter>
     </ClCompile>
+    <ClCompile Include="p_p126.cpp">
+      <Filter>소스 파일\chap5</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p127.cpp">
+      <Filter>소스 파일\chap5</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p128.cpp">
+      <Filter>소스 파일\chap5</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
