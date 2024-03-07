@@ -167,6 +167,8 @@
     <ClCompile Include="p_p133.cpp" />
     <ClCompile Include="p_p134.cpp" />
     <ClCompile Include="p_p135.cpp" />
+    <ClCompile Include="p_p136.cpp" />
+    <ClCompile Include="p_p137.cpp" />
     <ClCompile Include="p_p14.cpp" />
     <ClCompile Include="p_p15.cpp" />
     <ClCompile Include="p_p16.cpp" />
