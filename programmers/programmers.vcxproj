@@ -185,6 +185,8 @@
     <ClCompile Include="p_p165.cpp" />
     <ClCompile Include="p_p166.cpp" />
     <ClCompile Include="p_p167.cpp" />
+    <ClCompile Include="p_p168.cpp" />
+    <ClCompile Include="p_p169.cpp" />
     <ClCompile Include="p_p17.cpp" />
     <ClCompile Include="p_p18.cpp" />
     <ClCompile Include="p_p19.cpp" />

@@ -9,7 +9,7 @@ int solution(vector<vector<int>> board)
     for (int i = 1; i < board.size(); i++) {
         for (int j = 1; j < board[i].size(); j++) {
             if (board[i][j] == 1) {
-                board[i][j] = 1 + min({ board[i - 1][j],board[i][j - 1],board[i - 1][j - 1] });         //¿ÞÂÊ,À§,´ë°¢¼±
+                board[i][j] = 1 + min({ board[i - 1][j],board[i][j - 1],board[i - 1][j - 1] });         //¿ÞÂÊ,À§,¿ÞÂÊ ´ë°¢¼± À§
                 answer = max(answer, board[i][j]);
             }
         }
