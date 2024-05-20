@@ -465,5 +465,8 @@
     <ClCompile Include="p_p171.cpp">
       <Filter>소스 파일\chap6</Filter>
     </ClCompile>
+    <ClCompile Include="p_p172.cpp">
+      <Filter>소스 파일\chap6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
