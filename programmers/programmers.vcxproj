@@ -193,6 +193,7 @@
     <ClCompile Include="p_p172.cpp" />
     <ClCompile Include="p_p173.cpp" />
     <ClCompile Include="p_p174.cpp" />
+    <ClCompile Include="p_p175.cpp" />
     <ClCompile Include="p_p18.cpp" />
     <ClCompile Include="p_p19.cpp" />
     <ClCompile Include="p_p20.cpp" />
