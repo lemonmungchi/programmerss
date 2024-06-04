@@ -477,5 +477,14 @@
     <ClCompile Include="p_p175.cpp">
       <Filter>소스 파일\chap6</Filter>
     </ClCompile>
+    <ClCompile Include="p_p176.cpp">
+      <Filter>소스 파일\chap6</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p177.cpp">
+      <Filter>소스 파일\chap6</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p178.cpp">
+      <Filter>소스 파일\chap6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
