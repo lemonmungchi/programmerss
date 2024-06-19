@@ -13,7 +13,7 @@ int solution(string s) {
             else {
                 if (cnt > 1) tmp += to_string(cnt);
                 tmp += a;
-                a = s.substr(j, i);                //압축될부분 잘라서 앞에다가 넣어줬기때문에 자르기
+                a = s.substr(j, i);                //다음에 검사할 부분
                 cnt = 1;                  //압축했으면 다시 겹치는거 찾기위해 1로 초기화
             }
         }
