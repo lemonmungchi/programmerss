@@ -31,6 +31,9 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
+    <Filter Include="소스 파일\chap7">
+      <UniqueIdentifier>{b0d8f44c-303d-434f-8791-cd04816ad6f8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p_p10.cpp">
@@ -518,6 +521,12 @@
     </ClCompile>
     <ClCompile Include="p_p188.cpp">
       <Filter>소스 파일\chap6</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p189.cpp">
+      <Filter>소스 파일\chap7</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p190.cpp">
+      <Filter>소스 파일\chap7</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

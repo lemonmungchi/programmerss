@@ -1,66 +1,9 @@
-﻿  p_p1.cpp
-  p_p10.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p10.cpp(8,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p100.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p100.cpp(9,19): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p101.cpp
-  p_p102.cpp
-  p_p103.cpp
-  p_p104.cpp
-  p_p105.cpp
-  p_p106.cpp
-  p_p107.cpp
-  p_p108.cpp
-  p_p109.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p109.cpp(9,19): warning C4244: '초기화 중': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p109.cpp(11,21): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p11.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p11.cpp(8,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p110.cpp
-  p_p111.cpp
-  p_p112.cpp
-  p_p113.cpp
-  p_p114.cpp
-  p_p115.cpp
-  p_p116.cpp
-  코드를 생성하고 있습니다...
-  컴파일하고 있습니다...
-  p_p117.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p117.cpp(8,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p118.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p118.cpp(8,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p119.cpp
-  p_p12.cpp
-  p_p120.cpp
-  p_p121.cpp
-  p_p122.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p122.cpp(7,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p123.cpp
-  p_p124.cpp
-  p_p125.cpp
-  p_p126.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p126.cpp(9,9): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p126.cpp(9,12): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
-  p_p127.cpp
-  p_p128.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p128.cpp(13,25): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p128.cpp(16,30): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p13.cpp
-  p_p130.cpp
-  p_p131.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p131.cpp(15,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p131.cpp(33,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p132.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p132.cpp(29,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p132.cpp(32,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  p_p133.cpp
-  p_p134.cpp
-  p_p135.cpp
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p135.cpp(10,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p135.cpp(11,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  코드를 생성하고 있습니다...
-  컴파일하고 있습니다...
+﻿  p_185.cpp
   p_p136.cpp
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_185.cpp(9,15): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_185.cpp(10,17): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_185.cpp(13,15): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_185.cpp(14,17): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   p_p137.cpp
   p_p138.cpp
   p_p139.cpp
@@ -68,19 +11,41 @@ C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p135.cpp
 C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p14.cpp(19,22): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p14.cpp(10,9): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
   p_p140.cpp
-  p_p141.cpp
-  p_p142.cpp
-  p_p143.cpp
-  p_p15.cpp
-  p_p150.cpp
-  p_p151.cpp
-  p_p16.cpp
-  p_p160.cpp
-  p_p162.cpp
-  p_p17.cpp
-  p_p18.cpp
-  p_p19.cpp
-  p_p20.cpp
-  p_p21.cpp
+  p_p165.cpp
+  p_p166.cpp
+  p_p167.cpp
+  p_p168.cpp
+  p_p169.cpp
+  p_p170.cpp
+  p_p171.cpp
+  p_p172.cpp
+  p_p173.cpp
+  p_p174.cpp
+  p_p175.cpp
+  p_p176.cpp
+  p_p177.cpp
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p177.cpp(19,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   코드를 생성하고 있습니다...
-  Compiler terminating.  Please wait........... Abort complete.
+  컴파일하고 있습니다...
+  p_p178.cpp
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p178.cpp(14,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p178.cpp(46,18): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p178.cpp(47,21): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  p_p179.cpp
+  p_p180.cpp
+  p_p181.cpp
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p181.cpp(12,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p181.cpp(52,19): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p181.cpp(53,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  p_p182.cpp
+  p_p183.cpp
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p183.cpp(30,22): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  p_p184.cpp
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p184.cpp(6,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p184.cpp(22,50): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  p_p185.cpp
+  p_p186.cpp
+  p_p187.cpp
+C:\Users\khc11\OneDrive\바탕 화면\공부\programmerss\programmers\p_p187.cpp(10,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  p_p188.cpp
+  p_p189.cpp
