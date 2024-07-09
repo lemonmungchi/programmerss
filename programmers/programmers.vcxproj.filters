@@ -540,5 +540,11 @@
     <ClCompile Include="p_p194.cpp">
       <Filter>소스 파일\chap7</Filter>
     </ClCompile>
+    <ClCompile Include="p_p195.cpp">
+      <Filter>소스 파일\chap7</Filter>
+    </ClCompile>
+    <ClCompile Include="p_p196.cpp">
+      <Filter>소스 파일\chap7</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
