@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p197.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:p_p197.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E51AB54-55EA-47CA-AFA2-D0B8DA9E02AE}|programmers.vcxproj|C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p196.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E51AB54-55EA-47CA-AFA2-D0B8DA9E02AE}|programmers.vcxproj|solutionrelative:p_p196.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -47,19 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "p_p197.cpp",
+              "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p197.cpp",
+              "RelativeDocumentMoniker": "p_p197.cpp",
+              "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p197.cpp",
+              "RelativeToolTip": "p_p197.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-10T02:54:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "p_p196.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p196.cpp",
               "RelativeDocumentMoniker": "p_p196.cpp",
               "ToolTip": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p196.cpp",
               "RelativeToolTip": "p_p196.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-09T01:53:43.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "p_p195.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p195.cpp",
               "RelativeDocumentMoniker": "p_p195.cpp",
@@ -67,12 +84,11 @@
               "RelativeToolTip": "p_p195.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-08T02:09:55.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T02:09:55.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "p_p194.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p194.cpp",
               "RelativeDocumentMoniker": "p_p194.cpp",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "p_p193.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p193.cpp",
               "RelativeDocumentMoniker": "p_p193.cpp",
@@ -96,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "p_p192.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p192.cpp",
               "RelativeDocumentMoniker": "p_p192.cpp",
@@ -108,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "p_p191.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p191.cpp",
               "RelativeDocumentMoniker": "p_p191.cpp",
@@ -120,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "p_p190.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p190.cpp",
               "RelativeDocumentMoniker": "p_p190.cpp",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "p_p189.cpp",
               "DocumentMoniker": "C:\\Users\\khc11\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACF5\uBD80\\programmerss\\programmers\\p_p189.cpp",
               "RelativeDocumentMoniker": "p_p189.cpp",
